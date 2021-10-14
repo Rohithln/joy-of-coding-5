@@ -1,0 +1,24 @@
+#include <stdio.h> 
+1RN20CS115 R... int main()
+4 
+int arr[1eo], freq[1ee] int size, 1, J. count; printf("Enter size of array: "); 
+scanf("%d", &size);
+printf("Enter elements in array: ") for(i-0; i<size; i++) 
+1RN20CS115 Rohith L N  
+10 
+scanf("%d", &arr[i]): LS freq[i] = -1; 
+14 
+15 for(i-0; i<size; i++) L6 
+count 1; 
+for(j=i+1; j<size; j++) 
+L7 
+20 if(arr[i]==arr [j]) 22 count++ 
+5 freq[i] = 0; 
+24 
+25 
+26 if(freq[i] l= 0) 27 
+28 freqli] = count;
+29 
+30 
+31 
+printf("\nFrequency of all elements of array: \n")
