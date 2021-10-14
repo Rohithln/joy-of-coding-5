@@ -1,0 +1,23 @@
+#include <stdio.h> 
+int main(){ 
+int student[40], pos, i, size, value; 
+print ("enter no of elements in array of students: "); 
+scan(%d&size); 
+print ("enter %d elements are: \n", size) ; 
+for (i-0;i<size; i++) 
+("%d",&student[i]) 
+print ("enter the position where you want to insert the element: "); 
+scanf("%d",&pos) 
+print ("enter the value into that poition: "); 
+("%d", &value); for (i-size-1;i>=posk1;i--) 
+student[i+1]-student[i]; student[pos-1]= value; print ("final array after inserting the value is\n "); 
+for(i-0;i<=size; i++) 
+pran return } 
+10 
+12 
+15 
+14 
+15 
+16 
+17 
+(%d \n", student [i])
