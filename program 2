@@ -1,0 +1,19 @@
+int array[100]. position, C, print n;3 °Enter number of elements in scanf "%d", &n); array\n"); 
+("Enter %d elements\n", n); 
+1 RN20CS115 Rohith L N 
+for (c = 0; c < ns C+) anf ("%d", &array [c]); print ("Enter the 
+scant(6d &position); location where you wish to delete element \n ") ; 
+if (position = n+1) prantiC"Deletion not possible. \n"):
+16 
+11 
+12 
+L5 else 
+4 
+for (c = position 1; C 
+array [c] = array[c+1]; 
+C++) 15 
+L/ 
+printi (Resultant array: \n ") ; 
+L8 
+19 
+for (c prant(%d\n", array[C]);
