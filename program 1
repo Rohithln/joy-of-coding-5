@@ -1,0 +1,26 @@
+int main()
+int array[100]. position, c, n,count=0; 
+print ("Enter number of elements in array\n") 
+scanf ("%d", &n); 
+print ("Enter %d elements\n", n); 
+1RN20CS115 R... 
+1RN2OCS115 Rohith L N  
+C n; C++) 
+("sd", &array [c]); 
+for C 
+int i; 
+for (i-0;i<n; i++) 10 
+11 
+for (c-0;c<n;c++) 
+(array[i]--array [c]) 4 if 
+count-count+1; 
+18 
+19 
+20 
+if (count==0) 21 
+22 
+print ("distint group") 25 
+24 
+25 
+26 else 
+print ("invalid group ");
